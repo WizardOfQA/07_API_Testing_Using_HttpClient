@@ -1,0 +1,13 @@
+C:\Users\wizar\source\repos\HttpClient_API_TestFramework\HttpClient_API_TestFramework\bin\Debug\App.config
+C:\Users\wizar\source\repos\HttpClient_API_TestFramework\HttpClient_API_TestFramework\bin\Debug\HttpClient_API_TestFramework.dll.config
+C:\Users\wizar\source\repos\HttpClient_API_TestFramework\HttpClient_API_TestFramework\bin\Debug\HttpClient_API_TestFramework.dll
+C:\Users\wizar\source\repos\HttpClient_API_TestFramework\HttpClient_API_TestFramework\bin\Debug\HttpClient_API_TestFramework.pdb
+C:\Users\wizar\source\repos\HttpClient_API_TestFramework\HttpClient_API_TestFramework\bin\Debug\Dapper.Contrib.dll
+C:\Users\wizar\source\repos\HttpClient_API_TestFramework\HttpClient_API_TestFramework\bin\Debug\Dapper.dll
+C:\Users\wizar\source\repos\HttpClient_API_TestFramework\HttpClient_API_TestFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wizar\source\repos\HttpClient_API_TestFramework\HttpClient_API_TestFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wizar\source\repos\HttpClient_API_TestFramework\HttpClient_API_TestFramework\obj\Debug\HttpClient_API_TestFramework.csproj.CoreCompileInputs.cache
+C:\Users\wizar\source\repos\HttpClient_API_TestFramework\HttpClient_API_TestFramework\obj\Debug\HttpClient_API_TestFramework.csproj.CopyComplete
+C:\Users\wizar\source\repos\HttpClient_API_TestFramework\HttpClient_API_TestFramework\obj\Debug\HttpClient_API_TestFramework.dll
+C:\Users\wizar\source\repos\HttpClient_API_TestFramework\HttpClient_API_TestFramework\obj\Debug\HttpClient_API_TestFramework.pdb
+C:\Users\wizar\source\repos\HttpClient_API_TestFramework\HttpClient_API_TestFramework\obj\Debug\HttpClient_API_TestFramework.csprojResolveAssemblyReference.cache
